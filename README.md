@@ -35,9 +35,12 @@ The dataset contains:
 | 🔁 Avg Conversion Rate | 12.12% |
 
 ## Tools Used
-- Tableau
-- Excel
-- GitHub
+- Python: For cleaning, EDA, KPI calculation, charts.
+- Pandas, NumPy: For grouping, calculations, ROI, CTR, conversion rate, CPC, CPL.
+- Matplotlib / Seaborn: For charts analysis
+- Tableau: For final interactive dashboard
+- GitHub: For portfolio presentation.
+- Jupyter Notebook: For showing your full analysis process.
 
 ## 🔍 Key Analysis Performed
 
@@ -103,6 +106,11 @@ With 60% of captured leads never converting, **investing in better CRM workflows
 
 ### 🔴 Strategic — Front-Load Budget in April & May
 Campaign volume peaks in April and May — **align media spend and campaign launches with these high-activity windows**. Use quieter months (Feb, Sep) for planning, creative production, and A/B test setup rather than heavy spend.
+
+## Data Processing & EDA (Python)
+- Performed data cleaning and transformation using Python.
+- Calculated key performance metrics such as CTR, Conversion Rate, CPC, CPL, and Profit.
+- Conducted exploratory data analysis to identify trends, correlations, and patterns before building dashboards in Tableau.
 
 ## Project Files
 - `data/` contains the dataset
