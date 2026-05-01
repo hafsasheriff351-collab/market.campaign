@@ -89,10 +89,20 @@ Every campaign delivers an ROI between 0 and 2, perfectly evenly spread — with
 - Profitability and efficiency insights
 
 ## Business Recommendations
-- Increase investment in high-ROI channels.
-- Reduce spending on campaigns with high cost and low conversion.
-- Optimize campaigns with high clicks but low conversions.
-- Use campaign duration insights to plan future campaign timelines.
+### 🟢 High Priority — Scale Search for Performance Campaigns
+With the highest conversion rate (12.25%) and strong revenue, **Search should receive a larger share of performance marketing budgets** — especially for campaigns targeting users with clear purchase intent.
+
+### 🔵 High Priority — Use Email as a Low-Cost Retention Engine
+Email's lowest cost per campaign and highest CTR make it the best channel to re-engage existing customers and warm leads without burning performance budget. **Scale Email for nurture sequences and CRM campaigns.**
+
+### 🟣 Medium Priority — Position Influencer as Awareness, Not Conversion
+Influencer drives the highest impressions and revenue overall, but has the lowest conversion rate (12.00%). **Position Influencer campaigns as top-of-funnel awareness plays**, not direct conversion drivers — then retarget those audiences via Search or Email.
+
+### 🟡 Medium Priority — Invest in Lead Nurturing to Close the 60% Gap
+With 60% of captured leads never converting, **investing in better CRM workflows, retargeting, and follow-up sequences** could unlock significant revenue from existing pipeline without increasing acquisition spend.
+
+### 🔴 Strategic — Front-Load Budget in April & May
+Campaign volume peaks in April and May — **align media spend and campaign launches with these high-activity windows**. Use quieter months (Feb, Sep) for planning, creative production, and A/B test setup rather than heavy spend.
 
 ## Project Files
 - `data/` contains the dataset
