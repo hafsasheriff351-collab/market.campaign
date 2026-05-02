@@ -99,7 +99,7 @@ With the highest conversion rate (12.25%) and strong revenue, **Search should re
 Email's lowest cost per campaign and highest CTR make it the best channel to re-engage existing customers and warm leads without burning performance budget. **Scale Email for nurture sequences and CRM campaigns.**
 
 ### 🟣 Medium Priority — Position Influencer as Awareness, Not Conversion
-Influencer drives the highest impressions and revenue overall, but has the lowest conversion rate (12.00%). **Position Influencer campaigns as top-of-funnel awareness plays**, not direct conversion drivers — then retarget those audiences via Search or Email.
+Displays drives the highest impressions and revenue overall, but has the lowest conversion rate (12.00%). 
 
 ### 🟡 Medium Priority — Invest in Lead Nurturing to Close the 60% Gap
 With 60% of captured leads never converting, **investing in better CRM workflows, retargeting, and follow-up sequences** could unlock significant revenue from existing pipeline without increasing acquisition spend.
