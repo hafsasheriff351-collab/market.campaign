@@ -1,7 +1,7 @@
 # Marketing Campaign Performance Dashboard
 
 **By: Hafsah I**
-**Date of Completion:** March 25, 2025
+**Date of Completion:** April 27, 2026
 
 
 ## Introduction
@@ -46,6 +46,8 @@ The dataset contains:
 
 ### 01 · Channel Performance Comparison
 Compared all 5 channels across impressions, CTR, conversion rate, cost, and revenue. Identified which channels deliver the best returns per dollar spent using grouped aggregations and bar charts.
+
+![Average ROI by Channel](visuals/roi_by_channel.png)
 
 ### 02 · ROI Distribution Analysis
 Examined how ROI is distributed across 10,000 campaigns using histograms and percentile breakdowns. Explored whether high-ROI campaigns cluster around specific channels or durations.
